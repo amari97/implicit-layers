@@ -1,0 +1,22 @@
+name: implicit_layers
+channels:
+  - defaults
+dependencies:
+  - seaborn
+  - pandas
+  - numpy
+  - matplotlib
+  - scipy
+  - python
+  - torchaudio
+  - torchvision
+  - pytorch::pytorch
+  - ipykernel
+  - lightning
+  - cvxpy
+  - holidays
+  - astral
+  - pyarrow
+  - termcolor
+  - scikit-learn
+  - scikit-learn-intelex
