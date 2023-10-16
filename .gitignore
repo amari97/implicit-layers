@@ -167,3 +167,4 @@ data/
 results/
 figure/
 .vscode/
+lightning_logs/
